@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hello, I´m Víctor! 👋
 
-<!--
-**VicA-GO/VicA-GO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Data Analytics Student
 
-Here are some ideas to get you started:
+📍 Germany  
+📧 Email: vca.gallard@gmail.com  
+🔗 LinkedIn:  
+👨‍💻 GitHub: [VicA-GO](https://github.com/VicA-GO)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### About me
+
+New to data analytics and eager to keep learning. Looking for opportunities to apply my skills and grow in the field
+
+**What I've learned so far:**
+
+### Tech Toolbox 🛠️
+- Languages: **Python, SQL**
+- Frameworks & Libraries: **Pandas, NumPy, Matplotlib, Scikit-learn**
+- Tools: **Excel, Tableau, Jupyter, Power BI**
+### Specialties 🎯 
+  - Data Wrangling & Subsetting  
+  - Statistical Hypothesis Testing  
+  - Predictive Analysis & Forecasting  
+  - Data Profiling & Integrity  
+  - Geospatial Analysis  
+  - Data Visualization & Storytelling  
+  - Time Series Analysis  
+  - Clustering & Segmentation Algorithms  
+
+ ### Certifications 📜
+ **Data Analytics Program** [CareerFoundry](https://github.com/CareerFoundry)
