@@ -30,3 +30,6 @@ New to data analytics and eager to keep learning. Looking for opportunities to a
 
  ### Certifications 📜
  **Data Analytics Program** [CareerFoundry](https://github.com/CareerFoundry)
+
+### 📄 My CV
+You can view and download my CV [here](https://github.com/VicA-GO/CV/blob/main/Gallardo-VictorA.%20resume.pdf).
