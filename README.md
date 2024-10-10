@@ -4,7 +4,7 @@
 
 📍 Germany  
 📧 Email: vca.gallard@gmail.com  
-🔗 LinkedIn:  
+🔗 LinkedIn: [victoragallardo](https://www.linkedin.com/in/victoragallardo/) 
 👨‍💻 GitHub: [VicA-GO](https://github.com/VicA-GO)  
 
 
